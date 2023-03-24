@@ -1,0 +1,5 @@
+C:\Users\we\source\repos\FizzBuzz\FizzBuzzAppConsole\obj\Debug\net6.0\FizzBuzzAppConsole.csproj.AssemblyReference.cache
+C:\Users\we\source\repos\FizzBuzz\FizzBuzzAppConsole\obj\Debug\net6.0\FizzBuzzAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\source\repos\FizzBuzz\FizzBuzzAppConsole\obj\Debug\net6.0\FizzBuzzAppConsole.AssemblyInfoInputs.cache
+C:\Users\we\source\repos\FizzBuzz\FizzBuzzAppConsole\obj\Debug\net6.0\FizzBuzzAppConsole.AssemblyInfo.cs
+C:\Users\we\source\repos\FizzBuzz\FizzBuzzAppConsole\obj\Debug\net6.0\FizzBuzzAppConsole.csproj.CoreCompileInputs.cache
